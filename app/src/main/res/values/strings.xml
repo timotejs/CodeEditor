@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CodeEditor</string>
+    <string name="home_title">Projects</string>
+    <string name="extended_fab_content_desc">Add project</string>
+    <string name="extended_fab_label">Create project</string>
+    <string name="folder_icon">Folder icon</string>
+    <string name="create_project_dialog_title">Title</string>
+    <string name="supporting_text">support text</string>
+    <string name="cancel">Cancel</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="create_project_dialog_btn_create">Create</string>
+    <string name="create_file">Create file</string>
+</resources>
